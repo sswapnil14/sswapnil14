@@ -3,7 +3,7 @@
 Here are some highlights of my recent projects. Feel free to use them for learning. Do not expect everyting readily working out of the box as I have uploladed jupyter notebooks but not all .py. I was also not able to upload large (model/data) files used in GenAI projects.
 
 **GenAI, Agentic AI**
-- [Multi-Agent Chatbot for Healthcare](https://github.com/sswapnil14/AgenticAI/blob/main/24_Build%20Multi-Agent%20Chatbot%20with%20AG2%20AutoGen%20for%20Healthcare.ipynb)
+- [Multi-Agent Healthcare Pro](https://github.com/sswapnil14/AgenticAI/blob/main/24_Build%20Multi-Agent%20Chatbot%20with%20AG2%20AutoGen%20for%20Healthcare.ipynb)
 - [Meal Grocery Planner](https://github.com/sswapnil14/AgenticAI/blob/main/24_Build%20Multi-Agent%20Chatbot%20with%20AG2%20AutoGen%20for%20Healthcare.ipynb)
 - [Image Captioning and Classification with VLMs](https://github.com/sswapnil14/GenAI/blob/main/11%20vlms.py)
 - [LoRA fine-tuning](https://github.com/sswapnil14/GenAI/blob/main/3%20LoRA.py)
